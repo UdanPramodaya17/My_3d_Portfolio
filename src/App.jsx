@@ -2,7 +2,7 @@ import React from 'react'
 import { Route, BrowserRouter as Router,Routes } from 'react-router-dom'
 import Navbar from './components/Navbar'
 import {Home,About,Projects,Contact} from './pages'
-import { SpeedInsights } from "@vercel/speed-insights/next"
+import { SpeedInsights } from '@vercel/speed-insights/react';
 
 function App() {
   return (

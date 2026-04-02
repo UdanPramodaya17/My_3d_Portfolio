@@ -39,7 +39,7 @@ const renderContent = {
 
     4: (
         <InfoBox 
-            text="If you need a committed developer, I’m just a message away."
+            text="Looking for a driven developer to join your team? Let's connect."
             link="/contact"
             btnText="Let's talk"
         />

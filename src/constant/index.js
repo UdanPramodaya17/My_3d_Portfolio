@@ -89,11 +89,7 @@ export const skills = [
         name: "React",
         type: "Frontend",
     },
-    {
-        imageUrl: redux,
-        name: "Redux",
-        type: "State Management",
-    },
+    
     // {
     //     imageUrl: sass,
     //     name: "Sass",
@@ -177,12 +173,12 @@ export const socialLinks = [
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/YourGitHubUsername',
+        link: 'https://github.com/UdanPramodaya17',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/YourLinkedInUsername',
+        link: 'https://linkedin.com/in/udanapramodaya',
     }
 ];
 
@@ -190,9 +186,9 @@ export const projects = [
     {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'SHIZAA E-Commerce WebApp',
+        name: 'I Love It E-Commerce WebApp',
         description: 'Developed a full-stack e-commerce web application that enables users to seamlessly browse products, manage their shopping carts, and securely complete purchases using integrated payment gateways, providing a comprehensive online shopping experience',
-        link: 'https://github.com/UdanPramodaya17/SHIZAA_E-Commerce_WebApp.git',
+        link: 'https://github.com/UdanPramodaya17/I_Love_IT-_E-Commerce_WebApp.git',
     },
     {
         iconUrl: threads,
